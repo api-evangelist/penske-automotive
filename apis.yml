@@ -1,7 +1,12 @@
 aid: penske-automotive
-url: https://raw.githubusercontent.com/api-evangelist/penske-automotive/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/penske-automotive/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.penske-automotive.com
+description: >-
+  Penske Automotive Group is a diversified international transportation services company
+  that operates automotive and commercial truck dealerships principally in the United
+  States, Canada, and Western Europe.
