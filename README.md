@@ -1,22 +1,22 @@
 # Penske Automotive (penske-automotive)
-Penske Automotive is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Penske Automotive.
+Penske Automotive Group is a Fortune 500 diversified international transportation services company that operates automotive and commercial truck dealerships principally in the United States, Canada, and Western Europe.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/penske-automotive/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
+- **Type:** Index
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
 ## Tags:
 
- - Fortune 500
+ - Automotive, Dealerships, Transportation, Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,10 +24,10 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.penske-automotive.com)
+- [Website](https://www.penskeautomotive.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
