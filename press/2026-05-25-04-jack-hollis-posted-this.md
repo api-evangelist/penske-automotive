@@ -1,7 +1,9 @@
 ---
 title: Jack Hollis posted this
 url: https://www.linkedin.com/posts/hollisjack_penske-automotive-group-acquires-longo-toyota-activity-7399061815567224832-sSAo
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Penske Automotive Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
