@@ -46,10 +46,12 @@ x-api-posture: no-product-api
 x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/penske-automotive/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.penskeautomotive.com/about/blog
+    type: Blog
   - type: DomainSecurity
     url: security/penske-automotive-domain-security.yml
   - type: LinkedIn
